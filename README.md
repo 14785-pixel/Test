@@ -1,1 +1,1 @@
-#Simple Blog 
+#Simple Blog using MySQL as DBMS
